@@ -1,11 +1,11 @@
 # The initial download location(s) for the installation.
 # For example, http://myhost.mydomain.com/ManageSoftDL/
 # Refer to the documentation for further details.
-MGSFT_BOOTSTRAP_DOWNLOAD=http://uks-p-beacon-i.ad.openhealthgroup.com:8080/ManageSoftDL/
+MGSFT_BOOTSTRAP_DOWNLOAD=https://uks-p-beacon-i.ad.openhealthgroup.com/ManageSoftDL/
 # The initial reporting location(s) for the installation.
 # For example, http://myhost.mydomain.com/ManageSoftRL/
 # Refer to the documentation for further details.
-MGSFT_BOOTSTRAP_UPLOAD=http://uks-p-beacon-i.ad.openhealthgroup.com:8080/ManageSoftRL/
+MGSFT_BOOTSTRAP_UPLOAD=https://uks-p-beacon-i.ad.openhealthgroup.com/ManageSoftRL/
 # The initial proxy configuration. Uncomment these to enable proxy configuration.
 # Note that setting values of NONE disables this feature.
 # MGSFT_HTTP_PROXY=http://webproxy.local:3128
